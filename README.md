@@ -1,5 +1,5 @@
 
-# PIXELVERSE -MERN AI Image Generator
+# AI Art Studio - MERN AI Image Generator
 
 The AI MERN Image Generation Project is a full-stack web application that demonstrates the power of artificial intelligence in generating images. Built using the MERN (MongoDB, Express, React, Node.js) stack, this project combines AI technology with modern web development to create a seamless and visually appealing experience.
 
